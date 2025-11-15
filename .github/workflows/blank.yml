@@ -20,7 +20,7 @@ jobs:
       - name: Run main.py
         env:
           API_KEY_DEPENDENCY_TRACK : ${{secrets.API_KEY_DEPENDENCY_TRACK}}
-        run: python main.py
+        run: python3 main.py
 
       
 
