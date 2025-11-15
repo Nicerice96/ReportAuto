@@ -17,6 +17,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install dotenv
+        run: python3 install python-dotenv
+      
+      - name: Install Requests
+        run: python3 install requests
+
+
       - name: Run main.py
         env:
           API_KEY_DEPENDENCY_TRACK : ${{secrets.API_KEY_DEPENDENCY_TRACK}}
