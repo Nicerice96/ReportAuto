@@ -2,6 +2,7 @@
 import os
 import requests
 from dotenv import load_dotenv
+import json
 
 load_dotenv("local.env")
 
@@ -27,9 +28,20 @@ def fetch_data():
     return response.json()
 
 
+def write_to_file(json_data):
+    
+    try:
+        file = "project_data.json"
+        
+        with open(file, 'w') as f:
+            json.dump(json_data, f, indent=4)
+    except Exception as e:
+        print("JSON write has been unsuccessful!", e)
+
 
 
 if __name__ == "__main__":
     print(f"projects {fetch_data()}")
+    write_to_file(fetch_data())
 
     

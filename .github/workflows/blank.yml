@@ -22,10 +22,10 @@ jobs:
           pip install python-dotenv
           pip install requests
 
-      - name: Run main.py
-        env:
-          API_KEY_DEPENDENCY_TRACK : ${{secrets.API_KEY_DEPENDENCY_TRACK}}
-        run: python3 main.py
+      # - name: Run main.py
+      #   env:
+      #     API_KEY_DEPENDENCY_TRACK : ${{secrets.API_KEY_DEPENDENCY_TRACK}}
+      #   run: python3 main.py
 
       
 
