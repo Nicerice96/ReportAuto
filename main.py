@@ -14,12 +14,22 @@ else:
 
 BASE_URL = "http://localhost:8081/api"
 
-PROJECT_URL = f"{BASE_URL}/project"
+PROJECT_URL = f"{BASE_URL}/v1/project"
 
 HEADERS = {
     "X-api-key" : API_KEY,
     "Accept" : "application/json"
 }
 
+def fetch_data():
+    response = requests.get(PROJECT_URL, headers=HEADERS)
+    response.raise_for_status()
+    return response.json()
+
+
+
+
+if __name__ == "__main__":
+    print(f"projects {fetch_data()}")
 
     
