@@ -17,23 +17,29 @@ BASE_URL = "http://localhost:8081/api"
 
 PROJECT_URL = f"{BASE_URL}/v1/project"
 
+
 HEADERS = {
     "X-api-key" : API_KEY,
     "Accept" : "application/json"
 }
 
-def fetch_data():
+def fetch_general_project_data():
     response = requests.get(PROJECT_URL, headers=HEADERS)
     response.raise_for_status()
     return response.json()
 
+def fetch_project_metadata(project_uuid):
+    COMPONENT_URL=f"{BASE_URL}/v1/component/project/{project_uuid}"
+    response = requests.get(COMPONENT_URL, headers=HEADERS)
+    response.raise_for_status()
+    return response.json()
 
-def write_to_file(json_data):
+def write_to_file(json_data, filename):
     
     try:
-        file = "project_data.json"
         
-        with open(file, 'w') as f:
+        
+        with open(filename, 'w') as f:
             json.dump(json_data, f, indent=4)
     except Exception as e:
         print("JSON write has been unsuccessful!", e)
@@ -41,7 +47,17 @@ def write_to_file(json_data):
 
 
 if __name__ == "__main__":
-    print(f"projects {fetch_data()}")
-    write_to_file(fetch_data())
+    print(fetch_project_metadata("9c7a2e49-c2e2-4ca2-870a-dd98e8224cab"))
+    write_to_file(fetch_general_project_data(), "project_high_level_metadata.json")
+    
+    
+    write_to_file(
+        fetch_project_metadata("9c7a2e49-c2e2-4ca2-870a-dd98e8224cab"),
+        "project_component_data.json"
+                  )
+    
+    
+    
+    
 
     
