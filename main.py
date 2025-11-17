@@ -48,12 +48,12 @@ def write_to_file(json_data, filename):
 
 if __name__ == "__main__":
     print(fetch_project_metadata("9c7a2e49-c2e2-4ca2-870a-dd98e8224cab"))
-    write_to_file(fetch_general_project_data(), "project_high_level_metadata.json")
+    write_to_file(fetch_general_project_data(), "Project_Data/project_high_level_metadata.json")
     
     
     write_to_file(
         fetch_project_metadata("9c7a2e49-c2e2-4ca2-870a-dd98e8224cab"),
-        "project_component_data.json"
+        "Component_Data/project_component_data.json"
                   )
     
     
