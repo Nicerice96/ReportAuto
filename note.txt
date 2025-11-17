@@ -1,0 +1,4 @@
+parse field name for each component, version name, concat name+version...(human readable)
+
+pull open source projects...check if the scripts work there...
+
