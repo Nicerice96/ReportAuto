@@ -93,7 +93,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548992,
-            "lastOccurrence": 1763423232577
+            "lastOccurrence": 1763474076557
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -101,7 +101,7 @@
             "name": "HikariCP",
             "latestVersion": "7.0.2",
             "published": 1757701778000,
-            "lastCheck": 1763272481995
+            "lastCheck": 1763426826721
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -196,7 +196,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548822,
-            "lastOccurrence": 1763423232460
+            "lastOccurrence": 1763474076486
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -204,7 +204,7 @@
             "name": "accessors-smart",
             "latestVersion": "2.6.0",
             "published": 1754168974000,
-            "lastCheck": 1763272478132
+            "lastCheck": 1763426822277
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -307,7 +307,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548971,
-            "lastOccurrence": 1763423232555
+            "lastOccurrence": 1763474076546
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -315,7 +315,7 @@
             "name": "angus-activation",
             "latestVersion": "2.1.0-M1",
             "published": 1757599933000,
-            "lastCheck": 1763272481290
+            "lastCheck": 1763426825989
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -418,7 +418,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548961,
-            "lastOccurrence": 1763423232549
+            "lastOccurrence": 1763474076542
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -426,7 +426,7 @@
             "name": "antlr4-runtime",
             "latestVersion": "4.13.2",
             "published": 1722711120000,
-            "lastCheck": 1763272481078
+            "lastCheck": 1763426825759
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -529,7 +529,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548816,
-            "lastOccurrence": 1763423232457
+            "lastOccurrence": 1763474076484
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -537,7 +537,7 @@
             "name": "asm",
             "latestVersion": "9.9",
             "published": 1759602694000,
-            "lastCheck": 1763272478082
+            "lastCheck": 1763426822224
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -630,7 +630,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548750,
-            "lastOccurrence": 1763423232424
+            "lastOccurrence": 1763474076454
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -638,7 +638,7 @@
             "name": "aspectjweaver",
             "latestVersion": "1.9.25",
             "published": 1762238362000,
-            "lastCheck": 1763272477813
+            "lastCheck": 1763426821913
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -732,7 +732,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548852,
-            "lastOccurrence": 1763423232471
+            "lastOccurrence": 1763474076495
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -740,7 +740,7 @@
             "name": "attoparser",
             "latestVersion": "2.0.7.RELEASE",
             "published": 1690725196000,
-            "lastCheck": 1763272478533
+            "lastCheck": 1763426822721
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -833,7 +833,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548978,
-            "lastOccurrence": 1763423232561
+            "lastOccurrence": 1763474076549
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -841,7 +841,7 @@
             "name": "byte-buddy",
             "latestVersion": "1.18.1",
             "published": 1762966790000,
-            "lastCheck": 1763272481454
+            "lastCheck": 1763426826142
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -930,7 +930,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548885,
-            "lastOccurrence": 1763423232497
+            "lastOccurrence": 1763474076511
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -938,7 +938,7 @@
             "name": "checker-qual",
             "latestVersion": "3.52.0",
             "published": 1762277255000,
-            "lastCheck": 1763272479307
+            "lastCheck": 1763426823507
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1036,7 +1036,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548979,
-            "lastOccurrence": 1763423232562
+            "lastOccurrence": 1763474076550
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1044,7 +1044,7 @@
             "name": "classmate",
             "latestVersion": "1.7.1",
             "published": 1758928560000,
-            "lastCheck": 1763272481495
+            "lastCheck": 1763426826233
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1138,7 +1138,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548896,
-            "lastOccurrence": 1763423232507
+            "lastOccurrence": 1763474076517
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1146,7 +1146,7 @@
             "name": "evo-inflector",
             "latestVersion": "1.3",
             "published": 1625924993000,
-            "lastCheck": 1763272479615
+            "lastCheck": 1763426823925
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1235,7 +1235,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548789,
-            "lastOccurrence": 1763423232449
+            "lastOccurrence": 1763474076477
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1243,7 +1243,7 @@
             "name": "h2",
             "latestVersion": "2.4.240",
             "published": 1758731974000,
-            "lastCheck": 1763272477966
+            "lastCheck": 1763426822068
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1338,7 +1338,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548983,
-            "lastOccurrence": 1763423232564
+            "lastOccurrence": 1763474076552
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1346,7 +1346,7 @@
             "name": "hibernate-commons-annotations",
             "latestVersion": "7.0.3.Final",
             "published": 1729496486000,
-            "lastCheck": 1763272481604
+            "lastCheck": 1763426826365
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1442,7 +1442,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548989,
-            "lastOccurrence": 1763423232573
+            "lastOccurrence": 1763474076556
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1450,7 +1450,7 @@
             "name": "hibernate-core",
             "latestVersion": "7.2.0.CR2",
             "published": 1763252865000,
-            "lastCheck": 1763272481870
+            "lastCheck": 1763426826615
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1552,7 +1552,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548966,
-            "lastOccurrence": 1763423232551
+            "lastOccurrence": 1763474076544
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1560,7 +1560,7 @@
             "name": "istack-commons-runtime",
             "latestVersion": "4.2.0",
             "published": 1681472260000,
-            "lastCheck": 1763272481206
+            "lastCheck": 1763426825872
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1658,7 +1658,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548888,
-            "lastOccurrence": 1763423232502
+            "lastOccurrence": 1763474076514
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1666,7 +1666,7 @@
             "name": "jackson-annotations",
             "latestVersion": "3.0-rc5",
             "published": 1761780214000,
-            "lastCheck": 1763272479412
+            "lastCheck": 1763426823609
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1764,7 +1764,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548890,
-            "lastOccurrence": 1763423232503
+            "lastOccurrence": 1763474076515
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1772,7 +1772,7 @@
             "name": "jackson-core",
             "latestVersion": "2.20.1",
             "published": 1761867693000,
-            "lastCheck": 1763272479478
+            "lastCheck": 1763426823778
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1871,7 +1871,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548894,
-            "lastOccurrence": 1763423232505
+            "lastOccurrence": 1763474076516
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1879,7 +1879,7 @@
             "name": "jackson-databind",
             "latestVersion": "2.20.1",
             "published": 1761868176000,
-            "lastCheck": 1763272479551
+            "lastCheck": 1763426823831
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -1978,7 +1978,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548921,
-            "lastOccurrence": 1763423232525
+            "lastOccurrence": 1763474076528
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -1986,7 +1986,7 @@
             "name": "jackson-datatype-jdk8",
             "latestVersion": "2.20.1",
             "published": 1761869256000,
-            "lastCheck": 1763272480271
+            "lastCheck": 1763426824803
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -2085,7 +2085,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548919,
-            "lastOccurrence": 1763423232523
+            "lastOccurrence": 1763474076527
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -2093,7 +2093,7 @@
             "name": "jackson-datatype-jsr310",
             "latestVersion": "2.20.1",
             "published": 1761869255000,
-            "lastCheck": 1763272480230
+            "lastCheck": 1763426824746
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -2192,7 +2192,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548916,
-            "lastOccurrence": 1763423232522
+            "lastOccurrence": 1763474076526
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -2200,7 +2200,7 @@
             "name": "jackson-module-parameter-names",
             "latestVersion": "2.20.1",
             "published": 1761869255000,
-            "lastCheck": 1763272480192
+            "lastCheck": 1763426824664
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -2302,7 +2302,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548835,
-            "lastOccurrence": 1763423232464
+            "lastOccurrence": 1763474076489
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -2310,7 +2310,7 @@
             "name": "jakarta.activation-api",
             "latestVersion": "2.2.0-M1",
             "published": 1757592937000,
-            "lastCheck": 1763272478206
+            "lastCheck": 1763426822384
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -2412,7 +2412,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548933,
-            "lastOccurrence": 1763423232534
+            "lastOccurrence": 1763474076533
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -2420,7 +2420,7 @@
             "name": "jakarta.annotation-api",
             "latestVersion": "3.0.0",
             "published": 1712510865000,
-            "lastCheck": 1763272480592
+            "lastCheck": 1763426825156
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -2522,7 +2522,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548964,
-            "lastOccurrence": 1763423232550
+            "lastOccurrence": 1763474076543
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -2530,7 +2530,7 @@
             "name": "jakarta.inject-api",
             "latestVersion": "2.0.1.MR",
             "published": 1634577541000,
-            "lastCheck": 1763272481141
+            "lastCheck": 1763426825815
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -2632,7 +2632,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548987,
-            "lastOccurrence": 1763423232571
+            "lastOccurrence": 1763474076555
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -2640,7 +2640,7 @@
             "name": "jakarta.persistence-api",
             "latestVersion": "3.2.0",
             "published": 1716283350000,
-            "lastCheck": 1763272481799
+            "lastCheck": 1763426826540
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -2742,7 +2742,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548986,
-            "lastOccurrence": 1763423232568
+            "lastOccurrence": 1763474076554
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -2750,7 +2750,7 @@
             "name": "jakarta.transaction-api",
             "latestVersion": "2.0.1",
             "published": 1648724278000,
-            "lastCheck": 1763272481712
+            "lastCheck": 1763426826495
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -2853,7 +2853,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548840,
-            "lastOccurrence": 1763423232466
+            "lastOccurrence": 1763474076491
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -2861,7 +2861,7 @@
             "name": "jakarta.xml.bind-api",
             "latestVersion": "4.0.4",
             "published": 1758108235000,
-            "lastCheck": 1763272478241
+            "lastCheck": 1763426822458
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -2958,7 +2958,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548981,
-            "lastOccurrence": 1763423232563
+            "lastOccurrence": 1763474076551
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -2966,7 +2966,7 @@
             "name": "jandex",
             "latestVersion": "3.5.2",
             "published": 1762947216000,
-            "lastCheck": 1763272481563
+            "lastCheck": 1763426826316
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -3069,7 +3069,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548973,
-            "lastOccurrence": 1763423232557
+            "lastOccurrence": 1763474076547
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -3077,7 +3077,7 @@
             "name": "jaxb-core",
             "latestVersion": "4.0.6",
             "published": 1758630174000,
-            "lastCheck": 1763272481351
+            "lastCheck": 1763426826037
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -3180,7 +3180,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548975,
-            "lastOccurrence": 1763423232560
+            "lastOccurrence": 1763474076548
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -3188,7 +3188,7 @@
             "name": "jaxb-runtime",
             "latestVersion": "4.0.6",
             "published": 1758630176000,
-            "lastCheck": 1763272481413
+            "lastCheck": 1763426826083
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -3291,7 +3291,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548984,
-            "lastOccurrence": 1763423232566
+            "lastOccurrence": 1763474076553
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -3299,7 +3299,7 @@
             "name": "jboss-logging",
             "latestVersion": "3.6.1.Final",
             "published": 1725896319000,
-            "lastCheck": 1763272481650
+            "lastCheck": 1763426826445
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -3389,7 +3389,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548843,
-            "lastOccurrence": 1763423232468
+            "lastOccurrence": 1763474076493
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -3397,7 +3397,7 @@
             "name": "json-path",
             "latestVersion": "2.10.0",
             "published": 1761908859000,
-            "lastCheck": 1763272478292
+            "lastCheck": 1763426822541
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -3492,7 +3492,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548828,
-            "lastOccurrence": 1763423232462
+            "lastOccurrence": 1763474076488
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -3500,7 +3500,7 @@
             "name": "json-smart",
             "latestVersion": "2.6.0",
             "published": 1754170534000,
-            "lastCheck": 1763272478172
+            "lastCheck": 1763426822329
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -3596,7 +3596,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548861,
-            "lastOccurrence": 1763423232477
+            "lastOccurrence": 1763474076499
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -3604,7 +3604,7 @@
             "name": "jul-to-slf4j",
             "latestVersion": "2.1.0-alpha1",
             "published": 1740502226000,
-            "lastCheck": 1763272478724
+            "lastCheck": 1763426822918
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -3711,7 +3711,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548863,
-            "lastOccurrence": 1763423232479
+            "lastOccurrence": 1763474076501
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -3719,7 +3719,7 @@
             "name": "log4j-api",
             "latestVersion": "3.0.0-beta2",
             "published": 1758525226000,
-            "lastCheck": 1763272478768
+            "lastCheck": 1763426822981
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -3827,7 +3827,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548866,
-            "lastOccurrence": 1763423232480
+            "lastOccurrence": 1763474076502
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -3835,7 +3835,7 @@
             "name": "log4j-to-slf4j",
             "latestVersion": "3.0.0-beta2",
             "published": 1758525228000,
-            "lastCheck": 1763272478894
+            "lastCheck": 1763426823038
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -3930,7 +3930,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548872,
-            "lastOccurrence": 1763423232483
+            "lastOccurrence": 1763474076504
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -3938,7 +3938,7 @@
             "name": "logback-classic",
             "latestVersion": "1.5.21",
             "published": 1762794936000,
-            "lastCheck": 1763272479032
+            "lastCheck": 1763426823226
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4032,7 +4032,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548869,
-            "lastOccurrence": 1763423232482
+            "lastOccurrence": 1763474076503
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4040,7 +4040,7 @@
             "name": "logback-core",
             "latestVersion": "1.5.21",
             "published": 1762794938000,
-            "lastCheck": 1763272478941
+            "lastCheck": 1763426823130
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4125,7 +4125,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548941,
-            "lastOccurrence": 1763423232539
+            "lastOccurrence": 1763474076536
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4133,7 +4133,7 @@
             "name": "micrometer-commons",
             "latestVersion": "1.16.0",
             "published": 1762459161000,
-            "lastCheck": 1763272480731
+            "lastCheck": 1763426825300
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4219,7 +4219,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548944,
-            "lastOccurrence": 1763423232540
+            "lastOccurrence": 1763474076537
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4227,7 +4227,7 @@
             "name": "micrometer-observation",
             "latestVersion": "1.16.0",
             "published": 1762459672000,
-            "lastCheck": 1763272480792
+            "lastCheck": 1763426825365
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4327,7 +4327,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763134772696,
-            "lastOccurrence": 1763423232499
+            "lastOccurrence": 1763474076513
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4335,7 +4335,7 @@
             "name": "postgresql",
             "latestVersion": "42.7.8",
             "published": 1758230649000,
-            "lastCheck": 1763272479349
+            "lastCheck": 1763426823559
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4430,7 +4430,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548930,
-            "lastOccurrence": 1763423232532
+            "lastOccurrence": 1763474076532
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4438,7 +4438,7 @@
             "name": "slf4j-api",
             "latestVersion": "2.1.0-alpha1",
             "published": 1740502229000,
-            "lastCheck": 1763272480526
+            "lastCheck": 1763426825105
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4535,7 +4535,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548859,
-            "lastOccurrence": 1763423232476
+            "lastOccurrence": 1763474076498
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4543,7 +4543,7 @@
             "name": "snakeyaml",
             "latestVersion": "2.5",
             "published": 1756643374000,
-            "lastCheck": 1763272478684
+            "lastCheck": 1763426822868
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4638,7 +4638,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548771,
-            "lastOccurrence": 1763423232441
+            "lastOccurrence": 1763474076471
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4646,7 +4646,7 @@
             "name": "spring-aop",
             "latestVersion": "7.0.0",
             "published": 1763029926000,
-            "lastCheck": 1763272477862
+            "lastCheck": 1763426821965
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4741,7 +4741,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548929,
-            "lastOccurrence": 1763423232531
+            "lastOccurrence": 1763474076531
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4749,7 +4749,7 @@
             "name": "spring-aspects",
             "latestVersion": "7.0.0",
             "published": 1763029913000,
-            "lastCheck": 1763272480462
+            "lastCheck": 1763426825059
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4844,7 +4844,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548936,
-            "lastOccurrence": 1763423232535
+            "lastOccurrence": 1763474076534
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4852,7 +4852,7 @@
             "name": "spring-beans",
             "latestVersion": "7.0.0",
             "published": 1763029919000,
-            "lastCheck": 1763272480632
+            "lastCheck": 1763426825209
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -4947,7 +4947,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763134772682,
-            "lastOccurrence": 1763423232487
+            "lastOccurrence": 1763474076507
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -4955,7 +4955,7 @@
             "name": "spring-boot",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465011000,
-            "lastCheck": 1763272479169
+            "lastCheck": 1763426823351
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5050,7 +5050,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548877,
-            "lastOccurrence": 1763423232486
+            "lastOccurrence": 1763474076506
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5058,7 +5058,7 @@
             "name": "spring-boot-autoconfigure",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465019000,
-            "lastCheck": 1763272479122
+            "lastCheck": 1763426823311
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5153,7 +5153,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548881,
-            "lastOccurrence": 1763423232493
+            "lastOccurrence": 1763474076509
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5161,7 +5161,7 @@
             "name": "spring-boot-starter",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465053000,
-            "lastCheck": 1763272479207
+            "lastCheck": 1763426823400
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5256,7 +5256,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548782,
-            "lastOccurrence": 1763423232445
+            "lastOccurrence": 1763474076474
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5264,7 +5264,7 @@
             "name": "spring-boot-starter-aop",
             "latestVersion": "4.0.0-M2",
             "published": 1761224767000,
-            "lastCheck": 1763272477929
+            "lastCheck": 1763426822008
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5359,7 +5359,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548996,
-            "lastOccurrence": 1763423232581
+            "lastOccurrence": 1763474076559
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5367,7 +5367,7 @@
             "name": "spring-boot-starter-data-jpa",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465068000,
-            "lastCheck": 1763272482125
+            "lastCheck": 1763426826833
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5462,7 +5462,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548927,
-            "lastOccurrence": 1763423232529
+            "lastOccurrence": 1763474076531
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5470,7 +5470,7 @@
             "name": "spring-boot-starter-data-rest",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465061000,
-            "lastCheck": 1763272480424
+            "lastCheck": 1763426824987
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5565,7 +5565,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548994,
-            "lastOccurrence": 1763423232579
+            "lastOccurrence": 1763474076558
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5573,7 +5573,7 @@
             "name": "spring-boot-starter-jdbc",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465069000,
-            "lastCheck": 1763272482056
+            "lastCheck": 1763426826785
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5668,7 +5668,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548923,
-            "lastOccurrence": 1763423232526
+            "lastOccurrence": 1763474076529
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5676,7 +5676,7 @@
             "name": "spring-boot-starter-json",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465065000,
-            "lastCheck": 1763272480310
+            "lastCheck": 1763426824855
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5771,7 +5771,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548875,
-            "lastOccurrence": 1763423232485
+            "lastOccurrence": 1763474076505
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5779,7 +5779,7 @@
             "name": "spring-boot-starter-logging",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465080000,
-            "lastCheck": 1763272479078
+            "lastCheck": 1763426823273
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5874,7 +5874,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548883,
-            "lastOccurrence": 1763423232495
+            "lastOccurrence": 1763474076510
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5882,7 +5882,7 @@
             "name": "spring-boot-starter-thymeleaf",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465081000,
-            "lastCheck": 1763272479267
+            "lastCheck": 1763426823445
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -5977,7 +5977,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548915,
-            "lastOccurrence": 1763423232521
+            "lastOccurrence": 1763474076525
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -5985,7 +5985,7 @@
             "name": "spring-boot-starter-tomcat",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465074000,
-            "lastCheck": 1763272480156
+            "lastCheck": 1763426824611
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -6080,7 +6080,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548925,
-            "lastOccurrence": 1763423232528
+            "lastOccurrence": 1763474076530
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -6088,7 +6088,7 @@
             "name": "spring-boot-starter-web",
             "latestVersion": "4.0.0-RC2",
             "published": 1762465078000,
-            "lastCheck": 1763272480347
+            "lastCheck": 1763426824906
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -6183,7 +6183,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548949,
-            "lastOccurrence": 1763423232543
+            "lastOccurrence": 1763474076539
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -6191,7 +6191,7 @@
             "name": "spring-context",
             "latestVersion": "7.0.0",
             "published": 1763029917000,
-            "lastCheck": 1763272480884
+            "lastCheck": 1763426825506
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -6286,7 +6286,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548809,
-            "lastOccurrence": 1763423232454
+            "lastOccurrence": 1763474076482
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -6294,7 +6294,7 @@
             "name": "spring-core",
             "latestVersion": "7.0.0",
             "published": 1763029922000,
-            "lastCheck": 1763272478046
+            "lastCheck": 1763426822170
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -6389,7 +6389,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548954,
-            "lastOccurrence": 1763423232546
+            "lastOccurrence": 1763474076540
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -6397,7 +6397,7 @@
             "name": "spring-data-commons",
             "latestVersion": "4.0.0",
             "published": 1763128427000,
-            "lastCheck": 1763272480984
+            "lastCheck": 1763426825633
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -6492,7 +6492,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548957,
-            "lastOccurrence": 1763423232547
+            "lastOccurrence": 1763474076541
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -6500,7 +6500,7 @@
             "name": "spring-data-jpa",
             "latestVersion": "4.0.0",
             "published": 1763128427000,
-            "lastCheck": 1763272481038
+            "lastCheck": 1763426825687
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -6595,7 +6595,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548902,
-            "lastOccurrence": 1763423232512
+            "lastOccurrence": 1763474076520
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -6603,7 +6603,7 @@
             "name": "spring-data-rest-core",
             "latestVersion": "5.0.0",
             "published": 1763128435000,
-            "lastCheck": 1763272479791
+            "lastCheck": 1763426824201
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -6698,7 +6698,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548904,
-            "lastOccurrence": 1763423232513
+            "lastOccurrence": 1763474076520
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -6706,7 +6706,7 @@
             "name": "spring-data-rest-webmvc",
             "latestVersion": "5.0.0",
             "published": 1763128423000,
-            "lastCheck": 1763272479870
+            "lastCheck": 1763426824289
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -6801,7 +6801,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548946,
-            "lastOccurrence": 1763423232542
+            "lastOccurrence": 1763474076538
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -6809,7 +6809,7 @@
             "name": "spring-expression",
             "latestVersion": "7.0.0",
             "published": 1763029927000,
-            "lastCheck": 1763272480840
+            "lastCheck": 1763426825428
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -6900,7 +6900,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548900,
-            "lastOccurrence": 1763423232510
+            "lastOccurrence": 1763474076519
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -6908,7 +6908,7 @@
             "name": "spring-hateoas",
             "latestVersion": "3.0.0",
             "published": 1763031231000,
-            "lastCheck": 1763272479736
+            "lastCheck": 1763426824134
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7002,7 +7002,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548799,
-            "lastOccurrence": 1763423232452
+            "lastOccurrence": 1763474076479
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7010,7 +7010,7 @@
             "name": "spring-jcl",
             "latestVersion": "6.2.13",
             "published": 1763024864000,
-            "lastCheck": 1763272478008
+            "lastCheck": 1763426822120
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7105,7 +7105,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548990,
-            "lastOccurrence": 1763423232575
+            "lastOccurrence": 1763474076557
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7113,7 +7113,7 @@
             "name": "spring-jdbc",
             "latestVersion": "7.0.0",
             "published": 1763029920000,
-            "lastCheck": 1763272481909
+            "lastCheck": 1763426826669
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7208,7 +7208,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548951,
-            "lastOccurrence": 1763423232545
+            "lastOccurrence": 1763474076540
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7216,7 +7216,7 @@
             "name": "spring-orm",
             "latestVersion": "7.0.0",
             "published": 1763029933000,
-            "lastCheck": 1763272480923
+            "lastCheck": 1763426825571
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7315,7 +7315,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548899,
-            "lastOccurrence": 1763423232508
+            "lastOccurrence": 1763474076518
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7323,7 +7323,7 @@
             "name": "spring-plugin-core",
             "latestVersion": "4.0.0",
             "published": 1763030614000,
-            "lastCheck": 1763272479676
+            "lastCheck": 1763426824060
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7418,7 +7418,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548939,
-            "lastOccurrence": 1763423232537
+            "lastOccurrence": 1763474076535
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7426,7 +7426,7 @@
             "name": "spring-tx",
             "latestVersion": "7.0.0",
             "published": 1763029934000,
-            "lastCheck": 1763272480671
+            "lastCheck": 1763426825254
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7521,7 +7521,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548908,
-            "lastOccurrence": 1763423232516
+            "lastOccurrence": 1763474076522
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7529,7 +7529,7 @@
             "name": "spring-web",
             "latestVersion": "7.0.0",
             "published": 1763029927000,
-            "lastCheck": 1763272479955
+            "lastCheck": 1763426824371
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7624,7 +7624,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548906,
-            "lastOccurrence": 1763423232514
+            "lastOccurrence": 1763474076521
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7632,7 +7632,7 @@
             "name": "spring-webmvc",
             "latestVersion": "7.0.0",
             "published": 1763029934000,
-            "lastCheck": 1763272479913
+            "lastCheck": 1763426824327
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7727,7 +7727,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548855,
-            "lastOccurrence": 1763423232472
+            "lastOccurrence": 1763474076496
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7735,7 +7735,7 @@
             "name": "thymeleaf",
             "latestVersion": "3.1.3.RELEASE",
             "published": 1733776131000,
-            "lastCheck": 1763272478593
+            "lastCheck": 1763426822771
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7830,7 +7830,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548857,
-            "lastOccurrence": 1763423232474
+            "lastOccurrence": 1763474076497
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7838,7 +7838,7 @@
             "name": "thymeleaf-spring6",
             "latestVersion": "3.1.3.RELEASE",
             "published": 1733776134000,
-            "lastCheck": 1763272478646
+            "lastCheck": 1763426822823
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -7923,7 +7923,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548913,
-            "lastOccurrence": 1763423232519
+            "lastOccurrence": 1763474076525
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -7931,7 +7931,7 @@
             "name": "tomcat-embed-core",
             "latestVersion": "11.0.14",
             "published": 1762783378000,
-            "lastCheck": 1763272480087
+            "lastCheck": 1763426824542
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -8016,7 +8016,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548911,
-            "lastOccurrence": 1763423232518
+            "lastOccurrence": 1763474076524
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -8024,7 +8024,7 @@
             "name": "tomcat-embed-el",
             "latestVersion": "11.0.14",
             "published": 1762783379000,
-            "lastCheck": 1763272480044
+            "lastCheck": 1763426824486
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -8110,7 +8110,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548909,
-            "lastOccurrence": 1763423232517
+            "lastOccurrence": 1763474076523
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -8118,7 +8118,7 @@
             "name": "tomcat-embed-websocket",
             "latestVersion": "11.0.14",
             "published": 1762783379000,
-            "lastCheck": 1763272480002
+            "lastCheck": 1763426824422
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -8220,7 +8220,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548969,
-            "lastOccurrence": 1763423232553
+            "lastOccurrence": 1763474076545
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -8228,7 +8228,7 @@
             "name": "txw2",
             "latestVersion": "4.0.6",
             "published": 1758630180000,
-            "lastCheck": 1763272481250
+            "lastCheck": 1763426825924
         },
         "expandDependencyGraph": false,
         "isInternal": false
@@ -8322,7 +8322,7 @@
             "policyViolationsOperationalAudited": 0,
             "policyViolationsOperationalUnaudited": 0,
             "firstOccurrence": 1763031548848,
-            "lastOccurrence": 1763423232469
+            "lastOccurrence": 1763474076494
         },
         "repositoryMeta": {
             "repositoryType": "MAVEN",
@@ -8330,7 +8330,7 @@
             "name": "unbescape",
             "latestVersion": "1.1.6.RELEASE",
             "published": 1522432122000,
-            "lastCheck": 1763272478354
+            "lastCheck": 1763426822675
         },
         "expandDependencyGraph": false,
         "isInternal": false

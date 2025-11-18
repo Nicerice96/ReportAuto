@@ -1,4 +1,15 @@
-parse field name for each component, version name, concat name+version...(human readable)
+** pull open source projects...check if the scripts work there...
 
-pull open source projects...check if the scripts work there...
+We don't care about every component:
+Exclude certain components...
+Populate CSV's
+
+
+
+
+(probably)
+won't have the ability to use python.
+
+what kind of stories...
+
 
